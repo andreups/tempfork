@@ -1,2 +1,2 @@
 # tempfork
-Temporary fork for playing with Git
+Temporary fork for engaging with Git.
